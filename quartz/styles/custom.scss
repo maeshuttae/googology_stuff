@@ -1,3 +1,23 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+@font-face {
+  font-family: "Inter";
+  src: url("../static/Inter.ttf");
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../static/IBMPlexMono-SemiBold.ttf");
+}
+
+h1, h2, h3, h4, h5, h6, thead, h2.page-title > a {
+  font-family: "Inter";
+  font-weight: 800;
+}
+
+p, ol > li {
+  font-family: "Inter";
+}
+
+body code {
+  font-family: "IBM Plex Mono";
+}
