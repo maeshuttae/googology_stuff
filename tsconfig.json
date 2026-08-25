@@ -15,12 +15,8 @@
     "noUnusedParameters": true,
     "esModuleInterop": true,
     "jsx": "react-jsx",
-<<<<<<< HEAD
     "jsxImportSource": "preact",
     "ignoreDeprecations": "6.0"
-=======
-    "jsxImportSource": "preact"
->>>>>>> 7965c54b1146bd2f4dab8e6bc87df4be2341f041
   },
   "include": ["quartz/**/*.ts", "quartz/**/*.tsx", "*.ts", "*.tsx", "./package.json"],
   "exclude": [
