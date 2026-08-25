@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext", "DOM", "DOM.Iterable"],
+    "experimentalDecorators": true,
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "incremental": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+<<<<<<< HEAD
+    "jsxImportSource": "preact",
+    "ignoreDeprecations": "6.0"
+=======
+    "jsxImportSource": "preact"
+>>>>>>> 7965c54b1146bd2f4dab8e6bc87df4be2341f041
+  },
+  "include": ["quartz/**/*.ts", "quartz/**/*.tsx", "*.ts", "*.tsx", "./package.json"],
+  "exclude": [
+    "build/**/*.d.ts",
+    ".quartz/**/src/**",
+    ".quartz/**/test/**",
+    "node_modules/**",
+    "quartz/cli/tui/**"
+  ]
+}
