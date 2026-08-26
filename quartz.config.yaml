@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: e
+  pageTitle: shuttae's googology stuff
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -94,7 +94,7 @@ plugins:
   - source: "@quartz-community/latex"
     enabled: true
     options:
-      renderEngine: katex
+      renderEngine: mathjax
     order: 80
   - source: "@quartz-community/citations"
     enabled: false
@@ -213,7 +213,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5

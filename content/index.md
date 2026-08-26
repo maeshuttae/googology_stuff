@@ -1,41 +1,22 @@
 ---
-title: Home
+title: Введение
 tags:
   -
 ---
-# очень важная инфа!!!
+# Что такое гугология?
+Представь: ты в детском саду хвастаешься всем, что знаешь число миллиард. Безусловно, ты крут, но вдруг твой друг говорит: «*А я знаю триллион! Он больше!*»
+Все внимание переходит к твоему другу. Ты только что был унижен. Теперь самый крутой ребенок детского сада уже не ты, а он.
+У таких крутых людей есть свой раздел математики - **гугология**. Если по простому - это раздел, в котором изучаются большие числа. Очень большие. Вот прям очень. Это все определение.
+# А страница эта зачем нужна?
+Эта страница - что то в духе путеводника, который поможет ввести тебя в гугологию по одной из веток - быстрорастущей иерархии (об этом потом), хочешь ты того или не хочешь (если не хочешь - пожалуйста, захоти. не зря же писал...)
+***
+# Содержание
+>[!note] 
+>Все содержание также есть в левой панели (на пк), или открывается по отдельной кнопке сверху слева (на телефоне).
 
-OLEG LOX OLEG LOX OLEG LOSHPED
-OLEG LOX OLEG LOX OLEG LOSHPED!!
-
-# еще более важная инфа:
-1. OLEG LOX OLEG LOX OLEG LOSHPED
-2. OLEG LOX OLEG LOX OLEG LOSHPED
-3. OLEG LOX OLEG LOX OLEG LOSHPED
-4. OLEG LOX OLEG LOX OLEG LOSHPED
-5. OLEG LOX OLEG LOX OLEG LOSHPED
-6. OLEG LOX OLEG LOX OLEG LOSHPED
-7. OLEG LOX OLEG LOX OLEG LOSHPED
-8. OLEG LOX OLEG LOX OLEG LOSHPED
-9. OLEG LOX OLEG LOX OLEG LOSHPED
-10. OLEG LOX OLEG LOX OLEG LOSHPEDOLEG LOX OLEG LOX OLEG LOSHPED
-11. OLEG LOX OLEG LOX OLEG LOSHPED
-12. OLEG LOX OLEG LOX OLEG LOSHPED
-13. OLEG LOX OLEG LOX OLEG LOSHPED
-14. OLEG LOX OLEG LOX OLEG LOSHPED
-15. OLEG LOX OLEG LOX OLEG LOSHPEDOLEG LOX OLEG LOX OLEG LOSHPED
-16. v
-17. OLEG LOX OLEG LOX OLEG LOSHPED
-18. OLEG LOX OLEG LOX OLEG LOSHPED
-19. OLEG LOX OLEG LOX OLEG LOSHPED
-20. OLEG LOX OLEG LOX OLEG LOSHPED
-21. OLEG LOX OLEG LOX OLEG LOSHPED
-22. OLEG LOX OLEG LOX OLEG LOSHPED
-23. OLEG LOX OLEG LOX OLEG LOSHPED
-24. OLEG LOX OLEG LOX OLEG LOSHPED
-25. OLEG LOX OLEG LOX OLEG LOSHPED
-26. OLEG LOX OLEG LOX OLEG LOSHPED
-27. OLEG LOX OLEG LOX OLEG LOSHPED
-28. OLEG LOX OLEG LOX OLEG LOSHPED
-29. OLEG LOX OLEG LOX OLEG LOSHPED
-30. OLEG LOX OLEG LOX OLEG LOSHPED
+#### [Часть 1. Введение в гугологию](1-introduction)
+От самых маленьких (ладно, не самых) до очень больших чисел (но маленьких по меркам гугологии)
+#### [Часть 2. Нотации](2-notations)
+Различные способы записей чисел
+#### Часть 3. Быстрорастущая иерархия
+Основной фокус всего этого. Тут и начнется самое интересное.
